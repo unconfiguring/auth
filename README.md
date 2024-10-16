@@ -6,6 +6,8 @@
 # commands
 - too lazy to do this right now ill do it later
 
+# todo
+- [ ] make this readme look nice
 - [ ] add the telegram bot link
 - [ ] add commands & descriptions
 - [ ] fix the sherlock command
