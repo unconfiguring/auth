@@ -10,4 +10,5 @@
 - [ ] make this readme look nice
 - [ ] add the telegram bot link
 - [ ] add commands & descriptions
+- [ ] add & fix the bypass command
 - [ ] fix the sherlock command
