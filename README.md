@@ -11,7 +11,7 @@
 
 # todo
 - [ ] make this readme look nice
-- [ ] add the discord bot link
-- [ ] add commands & descriptions
-- [ ] add & fix the bypass command
-- [ ] fix the sherlock command
+- [x] add the discord bot link
+- [x] add commands & descriptions
+- [x] add & fix the bypass command
+- [x] fix the sherlock command
